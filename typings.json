@@ -1,0 +1,6 @@
+{
+  "name": "messageformat",
+  "main": "messageformat.d.ts",
+  "version": "3.4.1"
+
+}
